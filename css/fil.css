@@ -1,0 +1,48 @@
+
+.body1
+{
+    background-color: rgba(0, 255, 145, 0.777);
+}
+
+
+
+p
+{
+    text-align: center;
+    text-decoration: underline;
+}
+.center
+{
+    text-align: center;
+    margin-left:0%;
+}
+.img
+{
+    width: 200px;
+    height: 200px;
+    margin-left:43%;
+}
+.contain
+{
+    display: flex;
+    align-items: center;
+    margin-left: 43%;
+}
+.body 
+{
+    display: flex;
+    align-items: center;
+    margin-left: 43%;
+    background-color: aqua;
+}
+B
+{ 
+    font-style: italic;
+}
+
+
+
+
+
+
+
